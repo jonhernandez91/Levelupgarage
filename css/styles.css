@@ -1,21 +1,22 @@
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: 'Permanent Marker', cursive;
 }
 
 header div h1 {
     font-size: 20px;
     margin-left: 20px;
-    color: rgba(255, 255, 255, 0.692);
+    color: rgba(0, 0, 0, 0.692);
 }
 .jumbotron {
     margin: 0;
     padding: 30px;
     /* background-image: linear-gradient(to right, #000000, #4b4b4b, #000000); */
-    background-image: url("../images/header.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url("../images/381730.jpeg");
+    background-size: 100%;
+    background-position-y: 60%;
     color: white;
+    background-color: white;
 }
 
 .row-content {
@@ -28,11 +29,12 @@ header div h1 {
 }
 
 #logo {
-    width: 50%;
+    width: 25%;
+    mix-blend-mode: multiply;
 }
 
 body {
-    font-family: "Lobster", cursive;
+    font-family: 'Permanent Marker', cursive;
 }
 
 footer {
@@ -49,6 +51,6 @@ footer h5 {
 }
 
 body {
-    color: white;
-    background-color: rgb(24, 24, 24);
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
