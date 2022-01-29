@@ -12,9 +12,9 @@ header div h1 {
     margin: 0;
     padding: 30px;
     /* background-image: linear-gradient(to right, #000000, #4b4b4b, #000000); */
-    background-image: url("../images/header.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url("../images/381730.jpeg");
+    background-size: 100%;
+    background-position-y: 50%;
     color: white;
 }
 
