@@ -1,7 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .form-control {
+      margin-bottom: 10px;
+  }
 
 h1, h2, h3 {
     font-family: 'Khand', cursive;
-    font-weight: bolder;
 }
 
 header div h1 {
@@ -32,7 +39,6 @@ header div h1 {
 
 #logo {
     width: 25%;
-    mix-blend-mode: multiply;
 }
 
 body {
